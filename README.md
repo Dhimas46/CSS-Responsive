@@ -10,7 +10,8 @@ Jawaban
 
 3.Fungsi dari kode initial-scale=1.0 yaitu digunakan untuk menetapkan zoom awal pada saat membuat suatu halaman
 
-4.- Set up Meta Viewport
+4.Hal yang perlu kita buat/atur responsive pada website
+  - Set up Meta Viewport
   - Layout Website
   - The Flow
   ketika ukuran layar mengecil, maka konten akan memanjang kebawah ( vertical), maka konten-konten dibawahnya juga harus ikut bergerak     ke bawah
