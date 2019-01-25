@@ -2,9 +2,12 @@
 Belajar CSS Responsive
 Jawaban 
 1.Supaya pengguna mudah untuk menyesuaiakan ukuran layer dari device pengguna karena website yang harus dapat menyesuaiakan ukuran layer dari device pengguna
+
 2.dengan mengatur viewport pada halaman web tersebut. Pengarturan tersebut dituliskan pada tag <meta> yang terdapat di dalam tag <head>
   Selain mengatur viewport pada halaman web, ada beberapa hal yang harus diperhatikan terutama ketika styling elemen HTML pada CSS.Agar halaman web menjadi responsive, pengaturan dimensi (width dan height) harus dinamis. Dengan arti lain, pengarturan width menggunakan satuan pesen (%) dan height harus auto.Penggunaan Media Query Fitur media query adalah fitur untuk yang digunakan sebagai filter terhadap lebar layar pengguna.Konsep grid merupakan sebuah trik untuk membagi lebar layar menjadi 12 bagian. Konsep ini sangat membantu untuk membuat tampilan web menjadi lebih mudah
+
 3.Fungsi dari kode initial-scale=1.0 yaitu digunakan untuk menetapkan zoom awal pada saat membuat suatu halaman
+
 4.- Set up Meta Viewport
   - Layout Website
   - The Flow
