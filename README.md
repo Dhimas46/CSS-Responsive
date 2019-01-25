@@ -1,6 +1,7 @@
 # CSS-Responsive
-Belajar CSS Responsive
+
 Jawaban 
+
 1.Supaya pengguna mudah untuk menyesuaiakan ukuran layer dari device pengguna karena website yang harus dapat menyesuaiakan ukuran layer dari device pengguna
 
 2.dengan mengatur viewport pada halaman web tersebut. Pengarturan tersebut dituliskan pada tag <meta> yang terdapat di dalam tag <head>
